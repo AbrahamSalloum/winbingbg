@@ -1,1 +1,2 @@
-scrapes inage from bing.com, displays it as bg. 
+scrapes image from bing.com, displays it as bg. 
+for some reason win7 won't work with jpg files, will fix later.
