@@ -1,4 +1,4 @@
- # Abraham Salloum - scrapes Bing image of the day, makes bg
+# Abraham Salloum - scrapes Bing image of the day, makes bg
 import ctypes
 import re
 import urllib
@@ -26,3 +26,4 @@ imgpath = os.getcwd()+"\\" + filename
 im = Image.open(imgpath)
 bmpimg = im.save(imgpath, "bmp")
 ctypes.windll.user32.SystemParametersInfoA(SPI_SETDESKWALLPAPER, 0, imgpath+".bmp", SPIF_UPDATEINIFILE | SPIF_SENDWININICHANGE)
+
