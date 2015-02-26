@@ -1,4 +1,4 @@
-requires: py27-pyobjc-cocoa (Everything else should be installed by default)
+requires: py27-pyobjc-cocoa (Everything else should be installed by default).
 If you value your sanity this means macports.
 Only tested on 10.10 (Yosemite).
 
