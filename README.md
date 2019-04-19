@@ -1,4 +1,5 @@
-scrapes image from bing.com and displays it as bg.
-win7,8,8.1 maybe more
+scrapes image from bing.com and displays it as desktop bg (also saves the image).
 
-An exe version now exists (In the zip file).  
+works with win7 and above
+
+An exe version is in the zip file.  
